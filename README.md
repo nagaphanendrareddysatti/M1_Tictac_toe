@@ -13,7 +13,7 @@ This project consists of developing and implementing a computer program that pla
 
 
 ## Codiga Badge and Score
-
+[![Code Quality - Cppcheck](https://github.com/nagaphanendrareddysatti/M1_Tictac_toe/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/nagaphanendrareddysatti/M1_Tictac_toe/actions/workflows/Cppcheck.yml)
 
 
 
